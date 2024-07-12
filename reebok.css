@@ -1,0 +1,163 @@
+#bar{
+    height: 40px;
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: #244496;
+    display: flex;
+    position: fixed;
+    
+}
+#bar p{
+    color: white;
+    text-align: center;
+}
+#bar2{
+    height: 80px;
+    width: 100vw;
+    position: fixed;
+    background-color: white;
+}
+#bar2 img{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#p1{
+    display: flex;
+    margin-left: 170px;
+}
+#p1 a{
+    justify-content: space-between;
+    margin-left: 30px;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+#p2{
+    display: flex;
+    margin-left: 70%;
+    margin-top: -80px;
+}
+#p2 img{
+    
+
+}
+#p2 input{
+    height: 30px; 
+    width: 150px;
+
+}
+#im{
+    
+}
+#body{
+    height: 700px;
+    width: 100vw;
+    box-sizing: border-box;
+    background-image: url(https://imagescdn.reebok.in/img/app/shopmedia/production/3/32--12172.jpg?w=1898.75&auto=format,compress);
+}
+#image{
+    display: flex;
+}
+#image img{
+    justify-content: space-evenly;
+    margin: 10px;
+}
+#b2 h1{
+    margin-left: 20PX;
+}
+#b3{
+    height: 850px;
+    width: 100vw;
+    box-sizing: border-box;
+    border:  2px solid red;
+    background-image: url(https://imagescdn.reebok.in/img/app/shopmedia/production/3/32--12107.jpg?w=1898.75&auto=format);
+
+}
+#image2{
+    display: flex;
+    float: right ;
+    margin-top: 400px;
+
+}
+#image2 img{
+    justify-content: space-between;
+    margin-left: 20px;
+}
+#p3{
+    display: flex;
+    float: right;
+    margin-left: -110px;
+}
+#p3 p{
+    justify-content: space-between;
+    color: white;
+    margin-left: 70px;
+    font-weight: bold;
+    
+}
+#p4{
+    display: flex;
+    float: right;
+   margin-left: 300px;
+   /* margin-top: 20px; */
+}
+#p4 p{
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-left: 200px;
+    color: white;
+    font-weight: bold;
+}
+#bar3{
+    height: 50px;
+    width: 100vw;
+    background-color: #f1f1f1;
+}
+#bar4 h1{
+    margin-left: 30px;
+}
+
+#p5{
+    display: flex;
+    margin-left: 20px;
+}
+#p5 a{
+    justify-content: space-between;
+    margin-left: 20px;
+    border: 1px solid #707070;
+    padding: 0px 20px 0px 20px;
+    margin-left: 20px;
+    color: #707070;
+    text-decoration: none;
+
+}
+#image3{
+    display: flex;
+}
+#image3 img{
+    height: 400px;
+    width: 350px;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+#bar5 h1{
+    margin-left: 40px;
+
+}
+#footer{
+    height: 80px;
+    width: 100vw;
+    background-color: #244496;
+}
+#f1{
+    display: flex;
+    margin-left: 150px;
+    
+}
+#f1 p{
+    margin-top: 30px;
+    justify-content: space-between;
+    margin-left: 200px;
+    color: white;
+}
+
